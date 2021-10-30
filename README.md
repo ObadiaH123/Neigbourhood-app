@@ -15,7 +15,7 @@ Neighbourhood project is about how people living in an area can get the necessar
 
 - Clone or download and unzip the repository from github https://github.com/BenardBett/Neighborhood-app.git
 
-- You can use this command (git clone https://github.com/BenardBett/Neighborhood-app.git) to clone the project to your machine if you have git.
+- You can use this command  to clone the project to your machine if you have git.
 
 - cd into the project folder and open in text editor either code. or atom.
 
