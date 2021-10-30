@@ -48,10 +48,3 @@ No known bugs at the moment
 
 # License
 
-This project is licensed under the MIT LICENSE
-
-# Contact
-
-Details If you have any suggestion or modification that can better this project, feel free to contact me. Here are my details:
-
-Benard K. Bett ; Kiplangatbett5@gmail.com
