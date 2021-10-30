@@ -13,7 +13,7 @@ Neighbourhood project is about how people living in an area can get the necessar
 
 # Setup Installation
 
-- Clone or download and unzip the repository from github https://github.com/BenardBett/Neighborhood-app.git
+- Clone or download and unzip the repository from github 
 
 - You can use this command  to clone the project to your machine if you have git.
 
