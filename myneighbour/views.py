@@ -147,5 +147,5 @@ def search_results(request):
         return render(request,'search.html',{"message":message,"posts":searched_posts})
 
     else:
-        message="You haven't searched for any term"
+        message="You have not searched for any term"
         return render(request,'search.html',{"message":message})    
