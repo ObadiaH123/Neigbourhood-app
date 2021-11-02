@@ -26,7 +26,7 @@ Neighbourhood project is about how people living in an area can get the necessar
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/kelvinrono/neighbour
+git clone https://github.com/ObadiaH123/Neigbourhood-app.git
 ```
 #### Initialize git and add the remote repository
 ```bash
