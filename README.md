@@ -53,6 +53,19 @@ python manage.py makemigrations news
 python3.8 manage.py sqlmigrate news 0001
 python3.8 manage.py migrate
 ```
+#### Run the app
+```bash
+python3.8 manage.py runserver
+```
+Open [localhost:8000](http://127.0.0.1:8000)
+## Testing the Application
+`python3.8 manager.py tests`
+## Built With
+* [Python3.6](https://docs.python.org/3/)
+* Django
+* Boostrap
+* HTML
+* CSS
 
  # Technologies Used
 <precode>
