@@ -46,5 +46,7 @@ No known bugs at the moment
 
 
 
-# License
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
