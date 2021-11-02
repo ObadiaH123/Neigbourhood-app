@@ -1,5 +1,5 @@
 
-# NEIGHBOURHOOD
+# MY NEIGHBOURHOOD
 
 
 ## Author
@@ -13,7 +13,7 @@ Neighbourhood project is about how people living in an area can get the necessar
 
 # Setup Installation
 
-- Clone or download and unzip the repository from github 
+- Clone or download and unzip the repository using this link https://github.com/ObadiaH123/Neigbourhood-app.git
 
 - You can use this command  to clone the project to your machine if you have git.
 
